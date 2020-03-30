@@ -1,0 +1,10 @@
+{
+  "name": "bloom-reader-javascript-dependencies",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "//": "Developers need to yarn upgrade bloom-player to get the latest, because of yarn.lock. (TeamCity does this automatically.) For Beta/Release, we intend to put in a specific number.",
+    "bloom-player": "*"
+  }
+}
