@@ -32,9 +32,8 @@ class BookList extends StatelessWidget {
                     context,
                     MaterialPageRoute(
                         builder: (context) => BloomPlayerScreen(
-                            path:
-                                'https://bloomlibrary.org/readBook/ISzYvekACt')),
-                    //"sample books/The Moon and the Cap.bloomd")),
+                            zipfilePath:
+                                "sample books/The Moon and the Cap.bloomd")),
                   );
                 }),
             ListTile(
